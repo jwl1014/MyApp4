@@ -1,0 +1,25 @@
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+baseRadius = "medium"
+buttonRadius = "medium"
+showWidgetBorder = true
+metricValueFontSize = "1.6rem"
+
+[theme.light]
+primaryColor = "#D9480F"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F6F8"
+textColor = "#1F2328"
+borderColor = "#E3E5E8"
+
+[theme.dark]
+primaryColor = "#FF7A3D"
+backgroundColor = "#111316"
+secondaryBackgroundColor = "#1C1F24"
+textColor = "#ECEDEF"
+borderColor = "#2E3238"

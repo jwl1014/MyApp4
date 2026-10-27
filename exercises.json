@@ -1,0 +1,306 @@
+{
+  "body_parts": ["가슴", "등", "다리"],
+  "favorites": {
+    "가슴": ["벤치프레스", "푸시업", "딥스"],
+    "등": ["랫풀다운", "바벨로우"],
+    "다리": ["스쿼트", "레그프레스"]
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "name": "벤치프레스",
+      "body_part": "가슴",
+      "image_path": "assets/images/1_form.png",
+      "muscle_image_path": "assets/images/1_muscle.png",
+      "primary_muscles": "대흉근",
+      "secondary_muscles": "전면 삼각근, 삼두근",
+      "tips": [
+        "견갑골을 뒤로 모으고 아래로 내린 상태로 가슴을 들어 아치를 만든다",
+        "바는 유두 라인~명치 사이로 내린다",
+        "손목은 꺾지 말고 전완과 일직선을 유지한다",
+        "팔꿈치는 몸통과 45~70도 정도로 벌린다",
+        "내릴 때 숨을 들이마시고, 밀어 올리며 내쉰다"
+      ],
+      "mistakes": ["엉덩이가 벤치에서 뜨거나 바를 가슴에 튕겨 반동을 쓴다"],
+      "video_url": null
+    },
+    {
+      "id": 2,
+      "name": "인클라인 벤치프레스",
+      "body_part": "가슴",
+      "image_path": "assets/images/2_form.png",
+      "muscle_image_path": "assets/images/2_muscle.png",
+      "primary_muscles": "대흉근 상부",
+      "secondary_muscles": "전면 삼각근, 삼두근",
+      "tips": [
+        "벤치 각도는 30~45도로 설정한다 (너무 높으면 어깨 운동이 된다)",
+        "바는 쇄골 아래 윗가슴 쪽으로 내린다",
+        "견갑골을 고정해 어깨가 앞으로 말리지 않게 한다"
+      ],
+      "mistakes": ["벤치 각도를 너무 세워 어깨에 부하가 몰린다"],
+      "video_url": null
+    },
+    {
+      "id": 3,
+      "name": "덤벨 플라이",
+      "body_part": "가슴",
+      "image_path": "assets/images/3_form.png",
+      "muscle_image_path": "assets/images/3_muscle.png",
+      "primary_muscles": "대흉근",
+      "secondary_muscles": "전면 삼각근",
+      "tips": [
+        "팔꿈치를 살짝 굽힌 각도를 처음부터 끝까지 유지한다",
+        "큰 원을 그리듯 내리며 가슴이 늘어나는 느낌에 집중한다",
+        "올릴 때는 덤벨을 끝까지 맞붙이지 말고 가슴 긴장을 유지한다"
+      ],
+      "mistakes": ["무거운 중량으로 팔꿈치를 굽혀 프레스 동작이 된다"],
+      "video_url": null
+    },
+    {
+      "id": 4,
+      "name": "푸시업",
+      "body_part": "가슴",
+      "image_path": "assets/images/4_form.png",
+      "muscle_image_path": "assets/images/4_muscle.png",
+      "primary_muscles": "대흉근",
+      "secondary_muscles": "삼두근, 전면 삼각근, 복근",
+      "tips": [
+        "손은 어깨너비보다 약간 넓게 짚는다",
+        "머리부터 발뒤꿈치까지 일직선을 유지한다",
+        "가슴이 바닥에 거의 닿을 때까지 내려간다",
+        "팔꿈치는 몸통 쪽으로 45도 정도 모은다"
+      ],
+      "mistakes": ["허리가 처지거나 엉덩이가 들려 몸이 일직선이 무너진다"],
+      "video_url": null
+    },
+    {
+      "id": 5,
+      "name": "딥스",
+      "body_part": "가슴",
+      "image_path": "assets/images/5_form.png",
+      "muscle_image_path": "assets/images/5_muscle.png",
+      "primary_muscles": "대흉근 하부, 삼두근",
+      "secondary_muscles": "전면 삼각근",
+      "tips": [
+        "상체를 앞으로 약 30도 기울이면 가슴, 세우면 삼두 자극이 커진다",
+        "어깨가 귀 쪽으로 올라가지 않게 견갑골을 내린다",
+        "팔꿈치가 약 90도가 될 때까지 내려간다"
+      ],
+      "mistakes": ["너무 깊이 내려가 어깨 관절에 무리를 준다"],
+      "video_url": null
+    },
+    {
+      "id": 6,
+      "name": "케이블 크로스오버",
+      "body_part": "가슴",
+      "image_path": "assets/images/6_form.png",
+      "muscle_image_path": "assets/images/6_muscle.png",
+      "primary_muscles": "대흉근",
+      "secondary_muscles": "전면 삼각근",
+      "tips": [
+        "한 발을 앞으로 내딛고 상체를 약간 숙여 안정적으로 선다",
+        "팔꿈치 각도를 고정한 채 가슴을 모으는 느낌으로 당긴다",
+        "손이 모이는 지점에서 1초 정도 수축을 유지한다"
+      ],
+      "mistakes": ["팔 힘으로 당기거나 상체 반동을 사용한다"],
+      "video_url": null
+    },
+    {
+      "id": 7,
+      "name": "데드리프트",
+      "body_part": "등",
+      "image_path": "assets/images/7_form.png",
+      "muscle_image_path": "assets/images/7_muscle.png",
+      "primary_muscles": "척추기립근, 둔근, 햄스트링",
+      "secondary_muscles": "광배근, 승모근, 전완근",
+      "tips": [
+        "바는 발 중앙 위에 두고 정강이에 가깝게 붙인다",
+        "허리는 중립을 유지하고 가슴을 편 상태로 시작한다",
+        "바를 몸에 붙인 채 다리로 바닥을 밀어내듯 일어선다",
+        "들어 올리기 전에 숨을 들이마시고 복압을 잡는다"
+      ],
+      "mistakes": ["허리가 둥글게 말린 상태로 들어 올린다"],
+      "video_url": null
+    },
+    {
+      "id": 8,
+      "name": "풀업",
+      "body_part": "등",
+      "image_path": "assets/images/8_form.png",
+      "muscle_image_path": "assets/images/8_muscle.png",
+      "primary_muscles": "광배근",
+      "secondary_muscles": "이두근, 능형근, 후면 삼각근",
+      "tips": [
+        "어깨너비보다 약간 넓게 오버그립으로 잡는다",
+        "견갑골을 먼저 끌어내린 뒤 팔꿈치를 옆구리로 당긴다",
+        "가슴을 바 쪽으로 내민다는 느낌으로 올라간다",
+        "내려올 때도 천천히 버티며 팔을 거의 펴준다"
+      ],
+      "mistakes": ["다리 반동(키핑)으로 몸을 튕겨 올린다"],
+      "video_url": null
+    },
+    {
+      "id": 9,
+      "name": "랫풀다운",
+      "body_part": "등",
+      "image_path": "assets/images/9_form.png",
+      "muscle_image_path": "assets/images/9_muscle.png",
+      "primary_muscles": "광배근",
+      "secondary_muscles": "이두근, 능형근, 대원근",
+      "tips": [
+        "허벅지 패드를 고정하고 상체를 살짝 뒤로 기울인다",
+        "바는 쇄골~윗가슴 쪽으로 당긴다",
+        "손이 아닌 팔꿈치로 당긴다는 느낌으로 등 수축에 집중한다"
+      ],
+      "mistakes": ["바를 목 뒤로 당기거나 상체를 크게 젖혀 반동을 쓴다"],
+      "video_url": null
+    },
+    {
+      "id": 10,
+      "name": "바벨로우",
+      "body_part": "등",
+      "image_path": "assets/images/10_form.png",
+      "muscle_image_path": "assets/images/10_muscle.png",
+      "primary_muscles": "광배근, 능형근",
+      "secondary_muscles": "후면 삼각근, 이두근, 척추기립근",
+      "tips": [
+        "무릎을 살짝 굽히고 상체를 45도 정도 숙인다",
+        "허리를 중립으로 유지한 채 바를 배꼽 쪽으로 당긴다",
+        "당긴 지점에서 견갑골을 모아 등을 수축한다"
+      ],
+      "mistakes": ["상체를 들어 올리며 반동으로 당긴다"],
+      "video_url": null
+    },
+    {
+      "id": 11,
+      "name": "시티드 케이블로우",
+      "body_part": "등",
+      "image_path": "assets/images/11_form.png",
+      "muscle_image_path": "assets/images/11_muscle.png",
+      "primary_muscles": "광배근, 능형근",
+      "secondary_muscles": "승모근 중부, 이두근",
+      "tips": [
+        "가슴을 펴고 상체를 세운 상태로 앉는다",
+        "손잡이를 배꼽 쪽으로 당기며 견갑골을 모은다",
+        "돌아갈 때 등이 늘어나는 느낌을 받되 허리는 숙이지 않는다"
+      ],
+      "mistakes": ["상체를 앞뒤로 크게 흔들며 당긴다"],
+      "video_url": null
+    },
+    {
+      "id": 12,
+      "name": "원암 덤벨로우",
+      "body_part": "등",
+      "image_path": "assets/images/12_form.png",
+      "muscle_image_path": "assets/images/12_muscle.png",
+      "primary_muscles": "광배근",
+      "secondary_muscles": "능형근, 후면 삼각근, 이두근",
+      "tips": [
+        "한 손과 한쪽 무릎을 벤치에 대고 등을 평평하게 만든다",
+        "덤벨을 골반 쪽으로 호를 그리며 당긴다",
+        "팔꿈치를 몸통 가까이 붙여 광배근 자극을 높인다"
+      ],
+      "mistakes": ["상체를 회전시키며 덤벨을 들어 올린다"],
+      "video_url": null
+    },
+    {
+      "id": 13,
+      "name": "스쿼트",
+      "body_part": "다리",
+      "image_path": "assets/images/13_form.png",
+      "muscle_image_path": "assets/images/13_muscle.png",
+      "primary_muscles": "대퇴사두근, 둔근",
+      "secondary_muscles": "햄스트링, 내전근, 척추기립근",
+      "tips": [
+        "발은 어깨너비, 발끝은 약간 바깥쪽을 향한다",
+        "무릎은 발끝 방향과 같은 방향으로 굽힌다",
+        "허리 중립을 유지하고 엉덩이를 뒤로 빼며 앉는다",
+        "허벅지가 바닥과 평행해질 때까지 내려간다",
+        "발 전체로 바닥을 밀며 일어선다"
+      ],
+      "mistakes": ["무릎이 안쪽으로 모이거나 뒤꿈치가 뜬다"],
+      "video_url": null
+    },
+    {
+      "id": 14,
+      "name": "레그프레스",
+      "body_part": "다리",
+      "image_path": "assets/images/14_form.png",
+      "muscle_image_path": "assets/images/14_muscle.png",
+      "primary_muscles": "대퇴사두근",
+      "secondary_muscles": "둔근, 햄스트링",
+      "tips": [
+        "등과 엉덩이를 등받이에 완전히 붙인다",
+        "발판에 발을 어깨너비로 두고 발 전체로 민다",
+        "무릎이 약 90도가 될 때까지 내린다"
+      ],
+      "mistakes": ["밀어낸 끝에서 무릎을 완전히 잠가 관절에 부하를 준다"],
+      "video_url": null
+    },
+    {
+      "id": 15,
+      "name": "런지",
+      "body_part": "다리",
+      "image_path": "assets/images/15_form.png",
+      "muscle_image_path": "assets/images/15_muscle.png",
+      "primary_muscles": "대퇴사두근, 둔근",
+      "secondary_muscles": "햄스트링, 내전근",
+      "tips": [
+        "상체를 곧게 세우고 한 발을 크게 앞으로 내딛는다",
+        "앞무릎과 뒷무릎 모두 약 90도가 되도록 내려간다",
+        "앞발 뒤꿈치로 밀며 일어난다"
+      ],
+      "mistakes": ["보폭이 너무 좁아 앞무릎이 발끝보다 과하게 나간다"],
+      "video_url": null
+    },
+    {
+      "id": 16,
+      "name": "레그 익스텐션",
+      "body_part": "다리",
+      "image_path": "assets/images/16_form.png",
+      "muscle_image_path": "assets/images/16_muscle.png",
+      "primary_muscles": "대퇴사두근",
+      "secondary_muscles": "",
+      "tips": [
+        "무릎 관절이 기계 회전축과 일직선이 되도록 시트를 조절한다",
+        "다리를 끝까지 펴고 1초 정도 허벅지 앞쪽을 수축한다",
+        "내릴 때도 천천히 저항을 느끼며 내린다"
+      ],
+      "mistakes": ["반동을 이용해 다리를 차올린다"],
+      "video_url": null
+    },
+    {
+      "id": 17,
+      "name": "레그 컬",
+      "body_part": "다리",
+      "image_path": "assets/images/17_form.png",
+      "muscle_image_path": "assets/images/17_muscle.png",
+      "primary_muscles": "햄스트링",
+      "secondary_muscles": "비복근",
+      "tips": [
+        "패드가 아킬레스건 바로 위에 오도록 조절한다",
+        "골반을 패드에 붙인 채 뒤꿈치를 엉덩이 쪽으로 당긴다",
+        "내릴 때 천천히 버티며 햄스트링 긴장을 유지한다"
+      ],
+      "mistakes": ["엉덩이가 들리며 허리로 당긴다"],
+      "video_url": null
+    },
+    {
+      "id": 18,
+      "name": "루마니안 데드리프트",
+      "body_part": "다리",
+      "image_path": "assets/images/18_form.png",
+      "muscle_image_path": "assets/images/18_muscle.png",
+      "primary_muscles": "햄스트링, 둔근",
+      "secondary_muscles": "척추기립근",
+      "tips": [
+        "무릎을 살짝 굽힌 각도를 고정한다",
+        "엉덩이를 뒤로 밀며 상체를 숙이고, 바는 허벅지를 따라 내린다",
+        "햄스트링이 충분히 늘어나는 지점(보통 무릎 아래)까지만 내린다",
+        "엉덩이를 앞으로 밀며 일어선다"
+      ],
+      "mistakes": ["허리를 굽혀 바를 바닥까지 내린다"],
+      "video_url": null
+    }
+  ]
+}
